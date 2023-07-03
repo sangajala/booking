@@ -36,3 +36,68 @@
     transform: rotate(360deg);
   }
 }
+
+/* ////////////////////////// */
+
+/* /////////HEADER//////////// */
+nav{
+  text-align: right;
+  padding: 20px;
+}
+.H-Name{
+  margin: 20px 15px 20px 15px;
+}
+
+
+/* //////////Main////////////// */
+.booking{
+background-image: url('https://mohammedthoufiq.simplybook.me/v2/themes/assets/img/categories/appearance.jpg');
+text-align: center;
+border: 50px;
+}
+button{
+  background-color: #054875;
+  color: #e1e8e0;
+  margin: 50px;
+  min-height: 50px;
+
+}
+/* /////////FOOTER//////////// */ 
+.container {
+max-width: 1366px;
+height: 250px;
+background-color: #e1e8e0;
+/* background-color:red; */
+padding: 30px;
+}
+.container div {
+float: left;
+width: 20%;
+height: 260px;
+}
+#box1,#box2,#box3 {
+background-color: white;
+margin-left: 30px;
+margin-right: 30px;
+text-align: center;
+padding: 10px 40px;
+box-sizing: border-box;
+color: #333333;  
+box-sizing: border-box;
+width:auto;
+text-align: left;
+font-family: "Noto Sans", sans-serif;
+font-weight: 400;
+font-size: 18px;
+}
+#contact{
+color: #337ab7;
+}
+#F-heading{
+font-weight:bold;
+}
+
+.footer img {
+  max-height: 20px;
+  max-width: 20px;
+}
