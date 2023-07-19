@@ -6,7 +6,7 @@ export default function Main() {
     <main id="main">
       <div className="booking">
         <img src="appearance.jpg" alt="" style={{ width: 1000, height: 600 }} />
-        <h1>Muhammathrafiq---linda</h1>
+        <h1>Muhammathrafiq</h1>
         <button>
           Book Now <i className="fa fa-check fa-check"></i>
         </button>
